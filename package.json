@@ -10,8 +10,8 @@
     "spinners",
     "loading"
   ],
-  "author": "ritu rawat riturawat.com",
-  "license": "ISC",
+  "author": "ritu rawat @ riturawat.com",
+  "license": "MIT",
   "dependencies": {
     "markdown": "^0.5.0"
   }
